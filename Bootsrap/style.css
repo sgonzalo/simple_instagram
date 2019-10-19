@@ -1,0 +1,8 @@
+.container {
+  display: flex; /* or inline-flex */
+  background-color: gray;
+  flex-direction: row | row-reverse | column | column-reverse;
+}
+.col-sm {
+    background-color: blue;
+}
